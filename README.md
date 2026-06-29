@@ -16,7 +16,7 @@ Bem-vindo(a) ao meu perfil do GitHub!
 ## Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigosfrancaa&show_icons=true&hide=contribs,prs&theme=dracula)
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosfrancaa&layout=compact&theme=dracula)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosfrancaa&layout=compact&theme=dracula&v=1)
 
 ## 🔗 Conecte-se comigo
 
