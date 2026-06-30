@@ -17,7 +17,7 @@ Bem-vindo(a) ao meu perfil do GitHub!
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=rodrigosfrancaa&show_icons=true&hide=contribs,prs&theme=dracula)
 
-![Linguagens mais utilizadas](https://github-readme-stats.shion.dev/api/top-langs/?username=rodrigosfrancaa&layout=compact&theme=dracula&v=1)
+![Linguagens mais utilizadas](https://github-readme-stats.shion.dev/api/top-langs/?username=rodrigosfrancaa&layout=compact&theme=dracula&v=1&cache_seconds=1800)
 
 ## 🔗 Conecte-se comigo
 
